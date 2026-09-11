@@ -1,5 +1,5 @@
 /**
- * Ekky's Luxury Group — Interactive Scripts
+ * Great Ekky's Touch LTD — Interactive Scripts
  * Vanilla JS • Accessible • Performant
  */
 
@@ -156,7 +156,7 @@
     };
 
     const text = encodeURIComponent(
-      `Hello Ekky's Luxury Group,\n\nName: ${name}\nPhone: ${phone}\nInterest: ${interestLabels[interest] || interest}\n\nMessage: ${message || "—"}`
+      `Hello Ekky's Touch LTD,\n\nName: ${name}\nPhone: ${phone}\nInterest: ${interestLabels[interest] || interest}\n\nMessage: ${message || "—"}`
     );
 
     // Open WhatsApp with pre-filled message
